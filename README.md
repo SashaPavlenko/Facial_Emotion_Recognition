@@ -1,6 +1,6 @@
 # Bacheror's thesis
  
-In this repository is shown a CNN created by Aleksandr Pavlenko during bachelor's thesis work.
+In this repository you find a CNN created by Aleksandr Pavlenko during bachelor's thesis work.
 
 To work with this repository, you need to install libraries
 
