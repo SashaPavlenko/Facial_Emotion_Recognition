@@ -1,6 +1,6 @@
 # Pavlenko_Facial_Emotion_Recognition
- CNN that was created for bachelor's thesis by Aleksandr Pavlenko
-Engish version is below
+ 
+CNN that was created for bachelor's thesis by Aleksandr Pavlenko
 
 To work with this repository, you need to install libraries
 
