@@ -19,3 +19,10 @@ To test the model in real time, you need to run the webcam_fer.py file in the Ap
 * CNN_training - folder with training notebook and dataset.
 
 * haarcascades - folder containing haar cascades for face detection in video.
+
+## Result
+![til](./Facial_Emotion_Recognition/Screen_record/2_people.gif)
+
+![til](./Facial_Emotion_Recognition/Screen_record/one_person.gif)
+
+
